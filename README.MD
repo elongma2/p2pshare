@@ -29,14 +29,14 @@ pip install .
 ```
 
 ### 2. Usage
-📤 Send Files (PC ➜ Phone)
+📤 Send Files (Phone ➜ PC)
 ```
-python -m p2pshare.main --send path/to/file.txt
+python -m p2pshare.main --send 
 ```
 
-📥 Receive Files (Phone ➜ PC)
+📥 Receive Files (PC ➜ Phone)
 ```
-python -m p2pshare.main --receive
+python -m p2pshare.main --receive path/to/file.txt
 ```
 
 A QR code and webpage will appear. Open it on your phone and upload a file. It will be saved in the uploads/ directory.
