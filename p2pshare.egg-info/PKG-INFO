@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: p2pshare
+Version: 0.1
+Summary: Send and receive files between PC and phone using a local webserver + QR code.
+Author: Zhuosiwaaa
+Author-email: joshuablazer@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: flask
+Requires-Dist: qrcode
+Requires-Dist: werkzeug
+Requires-Dist: waitress
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

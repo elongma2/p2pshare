@@ -1,0 +1,12 @@
+setup.py
+p2pshare/__init__.py
+p2pshare/main.py
+p2pshare/receiver.py
+p2pshare/sender.py
+p2pshare/utils.py
+p2pshare.egg-info/PKG-INFO
+p2pshare.egg-info/SOURCES.txt
+p2pshare.egg-info/dependency_links.txt
+p2pshare.egg-info/entry_points.txt
+p2pshare.egg-info/requires.txt
+p2pshare.egg-info/top_level.txt

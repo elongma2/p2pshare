@@ -1,0 +1,4 @@
+flask
+qrcode
+werkzeug
+waitress

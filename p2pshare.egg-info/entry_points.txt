@@ -1,0 +1,2 @@
+[console_scripts]
+p2pshare = p2pshare.main:main
